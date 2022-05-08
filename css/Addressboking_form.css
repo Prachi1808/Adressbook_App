@@ -5,6 +5,13 @@ body {
 
 }
 
+error-output {
+    font-size: 14px;
+    color: red;
+    margin-left: 10px;
+    font-style: italic;
+}
+
 .head-text
 {
     text-align: left;
